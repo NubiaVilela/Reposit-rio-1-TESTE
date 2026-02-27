@@ -1,2 +1,2 @@
-# Reposit-rio-1-TESTE
+# Repositrio.md-1-TESTE
 ATIVIDADE PRÁTICA: GitHub Web
